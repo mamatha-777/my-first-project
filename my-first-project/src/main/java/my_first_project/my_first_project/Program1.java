@@ -4,6 +4,7 @@ public class Program1 {
 	public static void main(String[] args) {
 		
 		System.out.println("my first program");
+			System.out.println("creating new branch in github and pulling it locally");
 	}
 
 }
