@@ -5,6 +5,7 @@ public class Program2 {
 		System.out.println("program 2");
 		System.out.println("adding the line to pull the code in the local machine");
 		System.out.println("commiting the code into the old branch mamatha-777-patch-1");
+		System.out.println(System.getProperty("java.version"));
 	}
 
 }
